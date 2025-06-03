@@ -56,14 +56,18 @@ This project is deployed as a static website using GitHub Pages:
 
 ## Features
 ![總覽](img/總覽.jpg)
+*General overview of the web system.*
 ### 1. Nutrition Chart
 ![圖表](img/圖表.jpg)
+*Visualizes food data; filterable by different nutrients.*
 ![篩選器](img/篩選器.jpg)
+*Set upper and lower bounds for each nutrient filter.*
 * Visualizes nutrient values for each food item as circles sized according to the selected nutrient.
 * Filter sliders below the chart allow users to narrow the visible data range for each nutrient.
 
 ### 2. One-on-One Comparison Chart
 ![個別資訊](img/個別資訊.jpg)
+*Displays detailed information for selected data point.*
 * Drag food items into this area to view detailed nutritional information.
 * Three line types are used:
 
@@ -73,7 +77,9 @@ This project is deployed as a static website using GitHub Pages:
 
 ### 3. Personalized Plate
 ![餐盤警示](img/餐盤警示.jpg)
+*Plate color changes and warnings based on user selections.*
 ![個人化計算](img/個人化計算.jpg)
+*Performs nutrition calculation based on personal input.*
 * Set your gender, age, weight, height, physical activity, and meal type.
 * Calculates your recommended nutrient ranges based on TDEE (Total Daily Energy Expenditure).
 
