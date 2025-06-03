@@ -7,7 +7,7 @@
 
 ## System Overview
 
-**SeeFood** (See What You Eat 👀) is an interactive food nutrition visualization dashboard. Users can explore both macro and micro nutrition data of various foods, drag items onto a personalized plate to simulate daily intake, and utilize a range of features such as multi-dimensional filtering, nutritional comparison, and TDEE calculation.
+**SeeFood** (See Your Food 👀) is an interactive food nutrition visualization dashboard. Users can explore both macro and micro nutrition data of various foods, drag items onto a personalized plate to simulate daily intake, and utilize a range of features such as multi-dimensional filtering, nutritional comparison, and TDEE calculation.
 
 ---
 
