@@ -16,7 +16,7 @@ System Overview
 deployed as a static website using GitHub Pages:
 
 [👉 Click here to try it online](https://a1093351.github.io/)
-
+Demo Vedio:👉  https://youtu.be/P7LwIqrf8ZQ
 ---
 
 How to Run Locally
@@ -77,6 +77,7 @@ Team Contributions
   * M134020016 Yu-Fu Wang（王予芙）: Plate Module Development
   * M134020019 Liang-Tzu Huang（黃亮慈）: Visualization & Comparison Panel
 
+Demo Vedio:https://youtu.be/P7LwIqrf8ZQ
 ---
 
 **Professor and TAs,Thank you ! Have a wonderful summer break! 🥳❤️**
