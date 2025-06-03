@@ -67,6 +67,7 @@ This project is deployed as a static website using GitHub Pages:
 
 ### 2. One-on-One Comparison Chart
 ![個別資訊](img/個別資訊.jpg)
+
 *Displays detailed information for selected data point.*
 * Drag food items into this area to view detailed nutritional information.
 * Three line types are used:
