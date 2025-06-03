@@ -117,3 +117,11 @@ This project is deployed as a static website using GitHub Pages:
 
 ---
 
+| Screenshot                               | Description (EN)                                   | 說明（中文）                     |
+|-------------------------------------------|----------------------------------------------------|-----------------------------------|
+| ![](img/總覽.jpg)       | **System Overview**<br>Overall view of the web system.         | 系統總覽                          |
+| ![](img/圖表.jpg)       | **Nutrition Chart**<br>Visualizes food data; filterable by nutrients. | 圖表，可篩選條件進行顯示           |
+| ![](img/篩選器.jpg)     | **Multi-Range Filter Panel**<br>Set upper and lower bounds for nutrients. | 篩選器，可設定上下範圍             |
+| ![](img/個別資訊.jpg)   | **Food Item Details**<br>Detailed nutritional info for selected data. | 個別資料點的詳細資訊              |
+| ![](img/餐盤警示.jpg)   | **Plate with Alerts**<br>Plate color and warnings based on selection. | 餐盤，依據選擇的內容有顏色顯示     |
+| ![](img/個人化計算.jpg) | **Personalized Calculation**<br>Nutrition calculation based on personal input. | 依據個人數值進行個人化計算         |
