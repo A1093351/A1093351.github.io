@@ -13,7 +13,8 @@
 
 ### 🔗 **Live Demo**
 
-This project is deployed as a static website using GitHub Pages:
+deployed as a static website using GitHub Pages:
+
 [👉 Click here to try it online](https://a1093351.github.io/)
 
 ---
